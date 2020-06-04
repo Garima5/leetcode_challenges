@@ -42,3 +42,4 @@ class Solution:
         for i in range(half, len(costs)):
             ans = ans+costs[diff[i][1]][1]
         return ans
+       
